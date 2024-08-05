@@ -7,6 +7,7 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/shopizerecomm/shopizer.svg)](https://hub.docker.com/r/shopizerecomm/shopizer)
 [![stackoverflow](https://img.shields.io/badge/shopizer-stackoverflow-orange.svg?style=flat)](http://stackoverflow.com/questions/tagged/shopizer)
 [![CircleCI](https://circleci.com/gh/shopizer-ecommerce/shopizer.svg?style=svg)](https://circleci.com/gh/shopizer-ecommerce/shopizer)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoanttz1%2Fshopizer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoanttz1%2Fshopizer?ref=badge_shield)
 
 
 Java open source e-commerce software
@@ -161,3 +162,7 @@ Push your changes to Shopizer
 Please open a PR (pull request) in order to have your changes merged to the upstream
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftoanttz1%2Fshopizer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftoanttz1%2Fshopizer?ref=badge_large)
